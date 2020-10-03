@@ -105,23 +105,24 @@ Langkah-Langkah
     <br>DB_USERNAME=root
     <br>DB_PASSWORD=
 12. Setting QUEUE_CONNECTION agar bisa menjalankan proses queue menjadi QUEUE_CONNECTION=database.
-13. Setting smtp email yang digunakan untuk mengirim password registrasi user dan resi order customer. Jangan lupa setting <b>Less secure app access</b> menjadi <b>On</b> agar bisa mengirimkan email. Contohnya smtp gmail seperti berikut:
+13. Ketika sudah import excel pada saat hendak mass upload, jalankan perintah <b>php artisan queue:work</b> agar data diimport ke table products.
+14. Setting smtp email yang digunakan untuk mengirim password registrasi user dan resi order customer. Jangan lupa setting <b>Less secure app access</b> menjadi <b>On</b> agar bisa mengirimkan email. Contohnya smtp gmail seperti berikut:
     <br>MAIL_DRIVER=smtp
     <br>MAIL_HOST=smtp.gmail.com
     <br>MAIL_PORT=587
     <br>MAIL_USERNAME=alamat email kamu
     <br>MAIL_PASSWORD=password email kamu
     <br>MAIL_ENCRYPTION=tls
-14. Setting TELEGRAM_KEY dengan mencari username BotFather kemudian klik start. Ketik /newbot dan ikuti instruksi dari Telegram yang meminta data terkait nama bot dan username yang akan dibuat. Setelah semuanya selesai, Telegram akan mengirimkan token untuk mengakses HTTP API
+15. Setting TELEGRAM_KEY dengan mencari username BotFather kemudian klik start. Ketik /newbot dan ikuti instruksi dari Telegram yang meminta data terkait nama bot dan username yang akan dibuat. Setelah semuanya selesai, Telegram akan mengirimkan token untuk mengakses HTTP API
     <br>TELEGRAM_KEY=botTOKENTELEGRAMKAMU
-15. Setting RUANGAPI_KEY dengan mendaftar terlebih dahulu di https://ruangapi.com/register:
+16. Setting RUANGAPI_KEY dengan mendaftar terlebih dahulu di https://ruangapi.com/register:
     <br>RUANGAPI_KEY=TOKEN_RUANG_API_KAMU
-16. Jalankan perintah <b>php artisan migrate</b>. Cek di phpmyadmin, seharusnya tabel sudah muncul.
-17. Jalankan perintah <b>php artisan db:seed</b> untuk mengisi tabel users, provinces, cities, districts. Berikut email dan password untuk login admin pada http://localhost:8000/login
+17. Jalankan perintah <b>php artisan migrate</b>. Cek di phpmyadmin, seharusnya tabel sudah muncul.
+18. Jalankan perintah <b>php artisan db:seed</b> untuk mengisi tabel users, provinces, cities, districts. Berikut email dan password untuk login admin pada http://localhost:8000/login
     <br>EMAIL = rifki@admin.com
     <br>PASSWORD = admin
-18. Jalankan perintah <b>php artisan storage:link</b>    
-19. Setelah selesai, Jalankan perintah <b>php artisan serve</b> maka dapat diakses dengan http://localhost:8000/
-20. Login Customer dapat diakses dengan http://localhost:8000/member/login
+19. Jalankan perintah <b>php artisan storage:link</b>    
+20. Setelah selesai, Jalankan perintah <b>php artisan serve</b> maka dapat diakses dengan http://localhost:8000/
+21. Login Customer dapat diakses dengan http://localhost:8000/member/login
 
 SEKIAN PENJELASAN DARI SAYA, TERIMAKASIH. Created by <b>RIFKI</b>
