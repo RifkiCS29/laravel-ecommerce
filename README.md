@@ -81,6 +81,18 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 <img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/Produk.png" width="400">&nbsp;&nbsp;
 <img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/detail%20produk.png" width="400">&nbsp;&nbsp;
 <img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/daftar%20keranjang%20customer.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/checkout%20belanja.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/checkout%20finish.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/login%20customer.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/register%20customer.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/dashboard%20customer.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/pesanan%20customer.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/detail%20pesanan%20customer.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/konfirmasi%20pembayaran%20customer.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/daftar%20wishlists%20customer.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/pengaturan%20akun%20customer.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/login%20admin.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/dashboard%20admin.png" width="400">&nbsp;&nbsp;
 
 ## How To Install this Project
 
