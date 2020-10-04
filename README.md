@@ -77,6 +77,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/Beranda.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/Produk.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/detail%20produk.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/daftar%20keranjang%20customer.png" width="400">&nbsp;&nbsp;
+
 ## How To Install this Project
 
 - Persiapan
@@ -112,7 +117,7 @@ Langkah-Langkah
     <br>MAIL_USERNAME=alamat email kamu
     <br>MAIL_PASSWORD=password email kamu
     <br>MAIL_ENCRYPTION=tls
-14. Setting TELEGRAM_KEY dengan mencari username BotFather kemudian klik start. Ketik /newbot dan ikuti instruksi dari Telegram yang meminta data terkait nama bot dan username yang akan dibuat. Setelah semuanya selesai, Telegram akan mengirimkan token untuk mengakses HTTP API
+14. Setting TELEGRAM_KEY yang berguna untuk memberitahu admin jika ada return order. Cara memperoleh TELEGRAM_KEY dengan mencari username BotFather kemudian klik start. Ketik /newbot dan ikuti instruksi dari Telegram yang meminta data terkait nama bot dan username yang akan dibuat. Setelah semuanya selesai, Telegram akan mengirimkan token untuk mengakses HTTP API
     <br>TELEGRAM_KEY=botTOKENTELEGRAMKAMU
 15. Setting RUANGAPI_KEY dengan mendaftar terlebih dahulu di https://ruangapi.com/register:
     <br>RUANGAPI_KEY=TOKEN_RUANG_API_KAMU
