@@ -93,6 +93,12 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 <img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/pengaturan%20akun%20customer.png" width="400">&nbsp;&nbsp;
 <img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/login%20admin.png" width="400">&nbsp;&nbsp;
 <img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/dashboard%20admin.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/manajemen%20kategori.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/manajemen%20produk.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/manajemen%20order%20admin.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/konfirmasi%20pembayaran%20order%20admin.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/laporan%20order%20admin.png" width="400">&nbsp;&nbsp;
+<img src="https://github.com/RifkiCS29/laravel-ecommerce/blob/main/public/img/laporan%20order%20return%20admin.png" width="400">&nbsp;&nbsp;
 
 ## How To Install this Project
 
